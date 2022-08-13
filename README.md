@@ -4,9 +4,11 @@ Recently, various DeFi frontends have taken to using various malicious companies
 
 This repository contains a list of filters for AdBlock which ought to prevent these frontends from blocking their users.
 
-To import these rules, simply go to your AdBlock settings, navigate to "Filter Lists", and add the follinwg URL:
+To import these rules, simply go to your AdBlock settings, navigate to "Filter Lists", and add the following URL:
 
 `https://raw.githubusercontent.com/ape-dev-cs/unblock-dapps/master/filter`
+
+This has been built & tested around uBlock Origin, but should be compatible with all browser extension ad-blockers.
 
 ### Supported Frontends:
 - [AAVE](https://aave.com)
