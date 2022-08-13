@@ -1,0 +1,8 @@
+! AAVE pings this URL with your address, if you block it the app will behave normally
+https://aave-api-v2.aave.com/addresses/status
+
+! Uniswap pings this URL with your address, if you block it the app will behave normally
+https://screening-worker.uniswap.workers.dev
+
+! Oasis pings this URL with your address, if you block it the app will behave normally
+https://oasis.app/api/risk
