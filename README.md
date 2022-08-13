@@ -14,6 +14,7 @@ This has been built & tested around uBlock Origin, but should be compatible with
 - [AAVE](https://aave.com)
 - [Uniswap](https://uniswap.org)
 - [Oasis](https://oasis.app)
+- [Balancer](https://balancer.fi)
 
 
 ### Additional frontends
