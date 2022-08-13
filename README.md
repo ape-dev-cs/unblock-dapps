@@ -1,6 +1,6 @@
 # Adblock Filter list for Malicious Frontends
 
-Recently, various DeFi frontends have taken to using various malicious companies to surveil and block Ethereum addresses perceived as "suspicious" from using their services. This has led to [predictable](https://twitter.com/justinsuntron/status/1558397647165091840) and [hillarious](https://twitter.com/DrSoldmanGachs/status/1558377643917312000) results.
+Recently, various DeFi frontends have taken to using various malicious companies to surveil and block Ethereum addresses perceived as "suspicious" from using their services. This has led to [predictable](https://twitter.com/justinsuntron/status/1558397647165091840) and [hilarious](https://twitter.com/DrSoldmanGachs/status/1558377643917312000) results.
 
 This repository contains a list of filters for AdBlock which ought to prevent these frontends from blocking their users.
 
