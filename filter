@@ -6,3 +6,6 @@ https://screening-worker.uniswap.workers.dev
 
 ! Oasis pings this URL with your address, if you block it the app will behave normally
 https://oasis.app/api/risk
+
+! Balancer pings this URL with your address, if you block it the app will behave normally
+https://api.balancer.fi/sanctions-check
